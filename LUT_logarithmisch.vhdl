@@ -1,0 +1,1 @@
+--dieses file beinhaltet eine funktion, um aus einer rampe einen logarithmischen anstiech zu erzeugen 
