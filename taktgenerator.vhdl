@@ -1,0 +1,1 @@
+--50MHz clock rein, 20MHz raus
