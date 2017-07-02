@@ -1,0 +1,3 @@
+-- Eingaenge: Sollfrequenz
+-- Umrechnung Sollfrequenz-->Phaseninkrement, Phasenakku, Sinus LUT
+-- Ausgaenge: Amplitudenwert
