@@ -1,0 +1,3 @@
+--Eingaenge: Amplitudenwert, (Periodendauer)
+--Rampe erzeugen, mit Ampl vergleichen
+--Ausgaenge: PWM-Signal
